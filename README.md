@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🤭Eu sou desenvolvedor full-stack apaixonado desenvolvimento de sistemas<br>📲 Me adione no LinkedIn :) 
+🤭Eu sou desenvolvedor full-stack apaixonado por desenvolvimento de sistemas<br>📲 Me adione no LinkedIn :) 
 
 
 ## 🌐 Redes:
